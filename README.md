@@ -59,9 +59,12 @@ This project is a system designed to digitalize and enhance the efficiency of bu
    npm install
    npm run dev
    ```
-
-3. **Database Configuration**:
+2. **Database Configuration**:
    - Update the SQL Server connection string in the `appsettings.json` file.
+
+3. **Run Both Projects**:
+   - Ensure both the backend and frontend projects are running concurrently for the system to function properly.
+  
 
 ## 🌟 Key Components
 
